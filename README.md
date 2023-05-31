@@ -1,1 +1,1 @@
-Chainlink Hackathon 2023 Front end repo
+Chainlink Hackathon 2023 Front end repository

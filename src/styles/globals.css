@@ -1,0 +1,102 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.sc-kDDrLX {
+    background: linear-gradient(to right bottom, #00003dea 1%, #000000ea 60%, #23003dea 99%) !important;
+    box-shadow: inset 0 0 0, 0 0 0, 0 0 20px rgb(255, 255, 255) !important;
+    border-radius: 0 !important;
+}
+
+.sc-iqcoie {
+    color: #F0F8FF !important;
+    font-weight: normal !important;
+    font-family: 'Gruppo', cursive !important;
+    font-weight: bold !important;
+}
+
+.sc-crXcEl svg {
+    fill: #F0F8FF;
+}
+
+
+
+.sc-breuTD {
+    color: #F0F8FF !important;
+    font-weight: normal !important;
+    font-size: 2vh !important;
+    font-family: 'Gruppo', cursive !important;
+    font-weight: bold !important;
+    background-color: transparent !important;
+}
+
+.sc-breuTD span {
+    color: #F0F8FF !important;
+    font-weight: normal !important;
+    font-family: 'Gruppo', cursive !important;
+    font-weight: bold !important;
+}
+
+div[data-testid="test-wallet-modal-logo-MathWallet"].sc-hAZoDl.cpdFBG {
+    background-color: rgb(255, 255, 255) !important;
+}
+
+.bsXekn:hover {
+    background: black !important;
+}
+
+.sc-jSMfEi {
+    border-radius: 0 !important;
+    background: linear-gradient(to right bottom, #1818e0ea 1%, #000000ea 60%, #7e25c2ea 99%) !important;
+    box-shadow: inset 0 0 0, 0 0 0, 0 0 8px rgb(255, 255, 255) !important;
+
+}
+
+.sc-iBkjds {
+    border-radius: 0 !important;
+    background: transparent !important;
+    box-shadow: inset 0 0 0, 0 0 0, 0 0 4px rgb(255, 255, 255) !important;
+
+}
+
+.sc-eCYdqJ {
+    background: linear-gradient(to right bottom, #00003dea 1%, #000000ea 60%, #23003dea 99%) !important;
+}
+
+.sc-hKMtZM {
+    color: #d1e8fc !important;
+    font-family: 'Gruppo', cursive !important;
+    font-size: 2vh !important;
+}
+
+.sc-ftvSup {
+    color: #a9d7ff !important;
+    font-family: 'Gruppo', cursive !important;
+    font-size: 2vh !important;
+    text-shadow: 0 0 5px #5f92ff, 0 0 10px #5f92ff, 0 0 15px #5f92ff;
+}
+
+/* update box */
+.sc-jhzXDd {
+    border-radius: 0 !important;
+    background: linear-gradient(to right bottom, #1818e0ea 1%, #000000ea 60%, #7e25c2ea 99%) !important;
+    box-shadow: inset 0 0 0, 0 0 0, 0 0 8px rgb(255, 255, 255) !important;
+}
+
+.sc-KfMfS {
+    font-family: 'Gruppo', cursive !important;
+    font-size: 2vh !important;
+}
+
+.sc-cHPgQl {
+    color: #d1e8fc !important;
+    font-family: 'Gruppo', cursive !important;
+    font-size: 1.5vh !important;
+}
+
+/* color: #F0F8FF !important; */
+
+.sc-dkzDqf {
+    height: 2vh;
+    width: 2vh;
+}

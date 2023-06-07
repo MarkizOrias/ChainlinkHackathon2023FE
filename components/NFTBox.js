@@ -227,7 +227,7 @@ export default function NFTBox({ tokenId, claimedNfts, approvedNfts, setTokenURI
                                             <p>Now you are able to claim your NFT.</p>
                                         )}
                                         {!approvedNfts && !claimedNfts && (
-                                            <p>You will be able to claim your NFT within 48h.</p>
+                                            <p>You will be able to claim your NFT shortly.</p>
                                         )}
                                         {approvedNfts && claimedNfts && (
                                             <p>You have already claimed your NFT.</p>

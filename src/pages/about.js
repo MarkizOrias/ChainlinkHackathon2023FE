@@ -4,7 +4,7 @@ export default function About() {
     return (
         <div className={styles.aboutContainer}>
             <div className={styles.section}>
-                <p className={styles.msgTxt}>Welcome to our groundbreaking project from Chainlink Hackathon Spring 2023. This web3 project is designed to liberate artists from traditional constraints, empowering them to auction their NFT-based artwork while maximizing sale profits. It combines smart contract design with an intuitive frontend UI to create a seamless user experience.</p>
+                <p className={styles.msgTxt}>Welcome to our groundbreaking project from Chainlink Hackathon Spring 2023. This web3 project is designed to liberate artists from traditional constraints, empowering them to auction their NFT-based artwork while maximizing sale profits. It combines smart contract design with an intuitive frontend UI to create a seamless user experience, thanks to the utilization of Chainlink Keepers.</p>
                 <p className={styles.msgTxt}>This project offers a decentralized, transparent, and efficient system for NFT auctions, revolutionizing the world of NFT auctions and empowering artists and collectors alike. Welcome to the future of NFT auctions!</p>
                 <p className={styles.msgTxtTitle}>Key Functionalities:</p>
                 <p className={styles.msgTxtTitle}>NFT Creation</p>
